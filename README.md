@@ -1,7 +1,7 @@
 Simple weather application
 ==========================
 
-*Simple weather application can show weather today and also forecast for next 7 days*
+*Simple weather application can show weather for today and also forecast for next 7 days*
 
 
 Features
@@ -9,20 +9,20 @@ Features
 
 *This simple weather application first read current geo position of the mobile device and then using open weather API it shows
 either weather for today or forecast weather for next 7 days. Weather for today shows description of the weather, its icon, temperature, location, speed of wind,
-humidity and pressure. Forecast just shows description od the weather, weather graphics icon and temperature*
+humidity and pressure. Forecast just shows description of the weather, its icon and temperature*
 
 
 Installation
 ============
 
-*Build the apk file and install on mobile device. The application was developed under Android Studio 1.1.0*
+*Build the apk file and install on a mobile device. The application was developed under Android Studio 1.1.0*
 
 
 Usage
 =====
 
 *In the top menu there are two options called: Today and forecast.
-Click them and see the result, The setting function doesn't work*
+Click them and see the result. The setting function doesn't work.*
 
 
 
